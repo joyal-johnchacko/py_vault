@@ -2,7 +2,6 @@
 
 # 🌙 PY_VAULT
 
-![Python](https://img.shields.io/badge/%20Python-4B0082?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
