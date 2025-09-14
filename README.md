@@ -1,24 +1,18 @@
 <div align="center">
 
-# 🌙 Project Name  
+# 🌙 PY_VAULT
 
-![Python](https://img.shields.io/badge/Made%20with-Python-4B0082?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/%20Python-4B0082?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ---
 
 ## 🔮 About
-This project is part of my **100 Days of Code** challenge.  
-It is built using **Python** to practice coding and problem-solving skills.  
+This repo is part of my **100 Days of Code** challenge.  
+It contains code and projects written using **Python** to practice coding and problem-solving skills.  
 
 ---
-
-## ⚡ Features
-- Simple and clean implementation  
-- Beginner-friendly  
-- Dark purple inspired theme  
-
 ---
 
 <div align="center">
